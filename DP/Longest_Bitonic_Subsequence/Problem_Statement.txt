@@ -1,0 +1,15 @@
+
+//Longest Bitonic Subsequence.
+
+
+A subsequence of an array is called bitonic if the subsequence is,
+1) Strictly increasing
+OR
+2) Strictly decreasing
+OR
+3) First strictly increasing and then strictly decreasing.
+
+
+Related problem on spoj : http://www.spoj.com/problems/CODERE3/
+
+
