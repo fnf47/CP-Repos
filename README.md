@@ -1,2 +1,2 @@
 # CP-Repos
-A repository for Topicwise CP problems with solutions
+This repository contains solution to some interesting problems of competitive programming.
