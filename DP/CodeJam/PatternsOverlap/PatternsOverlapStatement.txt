@@ -3,7 +3,7 @@
 // Google Kickstart 2017 Round A
 // Problem B(Patterns Overlap)
 
-Problem
+Problem Statement
 
 Alice likes reading and buys a lot of books. She stores her books in two boxes; each box is labeled with a pattern that matches the titles of all of the books stored in that box. A pattern consists of only uppercase/lowercase English alphabet letters and stars (*). A star can match between zero and four letters. For example, books with the titles GoneGirl and GoneTomorrow can be put in a box with the pattern Gone**, but books with the titles TheGoneGirl, and GoneWithTheWind cannot.
 
@@ -17,20 +17,18 @@ For each test case, output one line containing Case #x: y, where x is the test c
 Limits
 
 1 ≤ T ≤ 50.
-Small dataset
 
+Small dataset
 1 ≤ the length of each pattern ≤ 200.
 Each pattern contains at most 5 stars.
-Large dataset
 
+Large dataset
 1 ≤ the length of each pattern ≤ 2000.
+
+
 Sample
 
 Input
-  	
-Output
- 
-
 3
 ****
 It
@@ -38,9 +36,8 @@ Shakes*e
 S*speare
 Shakes*e
 *peare
-
-	
-
+  	
+Output
 Case #1: TRUE
 Case #2: TRUE
 Case #3: FALSE
